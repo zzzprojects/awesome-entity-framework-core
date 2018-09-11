@@ -1,0 +1,1 @@
+# awesome-entity-framework-core
