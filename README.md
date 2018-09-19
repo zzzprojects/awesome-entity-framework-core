@@ -28,6 +28,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/z
 
 ## Supported Packages
 
+ - [Z.EntityFramework.Extensions.EFCore](https://github.com/zzzprojects/EntityFramework-Extensions) - Improve Entity Framework Core performance with Bulk SaveChanges and Bulk Operations.
  - [Z.EntityFramework.Plus.EFCore](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus is a library that improves Entity Framework performance and overcomes limitations with MUST-HAVE features.
  - [Audit.EntityFramework.Core](https://github.com/thepirat000/Audit.NET/tree/master/src/Audit.EntityFramework) - It provides the infrastructure to log interactions with the EF DbContext. It can record detailed information about Insert, Update and Delete operations in your database.
  - [OpenIddict.EntityFrameworkCore](https://github.com/openiddict/openiddict-core) - Entity Framework Core stores for OpenIddict.
