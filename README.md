@@ -32,54 +32,54 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 
 ## Supported Packages
 
-- [Z.EntityFramework.Extensions.EFCore](https://github.com/zzzprojects/EntityFramework-Extensions) - Improves Entity Framework Core performance with Bulk SaveChanges and Bulk Operations.
-- [Z.EntityFramework.Plus.EFCore](https://github.com/zzzprojects/EntityFramework-Plus) - Improves Entity Framework performance and overcomes limitations with MUST-HAVE features.
-- [Audit.EntityFramework.Core](https://github.com/thepirat000/Audit.NET/tree/master/src/Audit.EntityFramework) - Audit.EntityFramework provides the infrastructure to log interactions with the EF DbContext. 
-- [OpenIddict.EntityFrameworkCore](https://github.com/openiddict/openiddict-core) - Easy-to-use OpenID Connect server for ASP.NET Core.
-- [LinqKit.Microsoft.EntityFrameworkCore](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
-- [Pentagon.EntityFrameworkCore](https://github.com/Micle257/Pentagon.EntityFrameworkCore) - Provides extended API for Entity Framework Core library, such as synchronization and unit of work pattern.
-- [MiniProfiler.EntityFrameworkCore](https://miniprofiler.com) - A simple but effective mini-profiler for .NET, Ruby, Go and Node.js.
-- [DotNetToolkit.Repository.EntityFrameworkCore](https://github.com/johelvisguzman/DotNetToolkit.Repository) - A toolkit for using the Repository pattern in C# .NET.
-- [Remote.Linq.EntityFrameworkCore](https://github.com/6bee/Remote.Linq) - Simply LINQ your remote resources.
-- [Riganti.Utils.Infrastructure.EntityFrameworkCore](https://github.com/riganti/infrastructure) - This library can be used as a foundation of a business layer in your application.
-- [CSLA-EntityFrameworkCore](https://github.com/MarimerLLC/csla) - A software development framework that helps you build a reusable, maintainable object-oriented business layer for your app.
-- [EntityFrameworkCore.BootKit](https://github.com/Oceania2018/EntityFrameworkCore.BootKit) - A quick start database connect library for using .NET EntityFrameworkCore.
-- [NeinLinq.EntityFrameworkCore](https://github.com/axelheer/nein-linq) - Provides helpful extensions for using LINQ providers such as Entity Framework.
-- [Nofy.EntityFrameworkCore](https://github.com/unops/nofy) - A very simple .NET Standard library to help you manage notifications inside your app.
-- [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) - Bring power of Linq To DB to Entity Framework Core projects.
-- [Rocket.EntityFrameworkCore](https://rocketmod.net/) - RocketMod .NET Game Server Plugin Framework EntityFrameworkCore integration.
-- [Stove.EntityFrameworkCore](https://github.com/osoykan/Stove) - Domain Driven Design oriented application framework, meets CRUD needs.
-- [EntityFrameworkCore.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) -Adds events for entity inserting, inserted, updating, updated, deleting, and deleted.
-- [EntityFrameworkCore.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) - Get typed access to the DbEntityEntry<T>.OriginalValues property bag.
-- [ErikEJ.EntityFrameworkCore.DgmlBuilder](https://github.com/ErikEJ/SqlCeToolbox) -SQLite & SQL Server Compact Toolbox extension for Visual Studio (and SSMS).
-- [EntityFrameworkCore.Diagrams](https://github.com/EvAlex/ef-db-diagrams) - Visualize model created with EntityFramework Core.
-- [FlexLabs.Upsert](https://github.com/artiomchi/FlexLabs.Upsert) - Brings UPSERT functionality to common database providers for Entity Framework in their respective native SQL syntax.
-- [Microsoft.EntityFrameworkCore.LazyLoading](https://github.com/darxis/EntityFramework.LazyLoading) - Lazy Loading for EF Core.
-- [EntityFrameworkCore.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey) - Retrieve the primary key (including composite keys) from any entity as a dictionary.
-- [EntityFrameworkCore.CommonTools](https://github.com/gnaeus/EntityFramework.CommonTools) - Extensions, Auditing, Concurrency Checks, JSON properties and Transaction Logs for EntityFramework and EFCore.
-- [Moq.EntityFrameworkCore](https://github.com/MichalJankowskii/Moq.EntityFrameworkCore) - This library helps you with mocking EntityFramework contexts.
-- [DelegateDecompiler.EntityFrameworkCore](https://github.com/hazzik/DelegateDecompiler) - A library which is able to decompile a delegate or a method body to its lambda representation.
-- [Microsoft.EntityFrameworkCore.AutoHistory](https://github.com/arch/AutoHistory) - A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.
-- [Microsoft.EntityFrameworkCore.DynamicLinq](https://github.com/StefH/System.Linq.Dynamic.Core) - A .NET Core / Standard port of the Microsoft assembly for the .Net 4.0 Dynamic language functionality.
-- [Pomelo.EntityFrameworkCore.Lolita.MySql](https://github.com/PomeloFoundation/Lolita/) - A light-weight extension which provides bulk update and delete operations for Entity Framework Core.
-- [Microsoft.EntityFrameworkCore.UnitOfWork](https://github.com/arch/UnitOfWork) - A plugin for Microsoft.EntityFrameworkCore to support repository, unit of work patterns, multiple database with distributed transaction supported, and MySQL multiple databases/tables sharding supported.
-- [Communist.EntityFrameworkCore](https://github.com/bsheldrick/communist) - A set of libraries to help with development of service layers in your .NET Core apps.
-- [MassTransit.EntityFrameworkCore](https://github.com/MassTransit/MassTransit) - Leverage message-based, loosely-coupled asynchronous communication for higher availability, reliability, and scalability.
-- [EfCore.Shaman](https://github.com/isukces/EfCore.Shaman) - Fix some EntityFrameworkCore flaws.
-- [Filer.EntityFrameworkCore](https://github.com/UNOPS/filer) - A very simple .NET Standard library to help you manage documents inside your app.
-- [Snickler.EFCore](https://github.com/snickler/EFCore-FluentStoredProcedure) - EFCore Extension that allows a means to map a stored procedure to a class, fluently.
-- [EntityFrameworkCore.Scaffolding.Handlebars](https://github.com/TrackableEntities/EntityFrameworkCore.Scaffolding.Handlebars) - Scaffold EF Core models using Handlebars templates.
-- [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - EntityFrameworkCore Bulk Extensions for Insert Update Delete and Read (CRUD) operations.
-- [ReflectionIT.Mvc.Paging](https://github.com/sonnemaf/ReflectionIT.Mvc.Paging) - ASP.NET Core 2.1 MVC Paging (including filtering and sorting) solution using Entity Framework Core 2.0 and IEnumerable<T>.
-- [EFCore.DbContextFactory](https://github.com/vany0114/EF.DbContextFactory) - Resolve easily your DbContext dependencies in a safe way injecting a factory instead of an instance itself.
-- [Cake.DotNetCoreEf](https://github.com/cake-build/cake) - Cake (C# Make) is a cross platform build automation system.
-- [InfoCarrier.Core](https://github.com/azabluda/InfoCarrier.Core) - EntityFrameworkCore provider for multitier applications.
-- [Configuration.EntityFramework](https://github.com/thinkabouthub/Configuration.EntityFramework) - A custom configuration provider for the .NET Core Configuration system.
-- [MockQueryable.Core](https://github.com/romantitov/MockQueryable) - Moking Entity Framework Core operations such ToListAsync, FirstOrDefaultAsync.
-- [EntityFrameworkCore.Testing.FakeItEasy](https://github.com/pushrbx/EntityFrameworkCore.Testing.FakeItEasy) - Simple EntityFrameworkCore testing library for FakeItEasy.
-- [Impatient.EntityFrameworkCore.SqlServer](https://github.com/tuespetre/Impatient) - A library that provides the infrastructure needed to build powerful LINQ query providers for SQL databases.
-- [EntityFrameworkCorePluralize](https://github.com/Apeoholic/EntityFrameworkCorePluralize) - Adds Singlarization and Pluralization to Entity Framework Core.
-- [EntityFrameworkCore.MemoryJoin](https://github.com/neisbut/EntityFramework.MemoryJoin) - Extension for EntityFramework for joins to in-memory data.
+ - [Z.EntityFramework.Extensions.EFCore](https://github.com/zzzprojects/EntityFramework-Extensions) - Improves Entity Framework Core performance with Bulk SaveChanges and Bulk Operations.
+ - [Z.EntityFramework.Plus.EFCore](https://github.com/zzzprojects/EntityFramework-Plus) - Improves Entity Framework performance and overcomes limitations with MUST-HAVE features.
+ - [Audit.EntityFramework.Core](https://github.com/thepirat000/Audit.NET/tree/master/src/Audit.EntityFramework) - Audit.EntityFramework provides the infrastructure to log interactions with the EF DbContext. 
+ - [OpenIddict.EntityFrameworkCore](https://github.com/openiddict/openiddict-core) - Easy-to-use OpenID Connect server for ASP.NET Core.
+ - [LinqKit.Microsoft.EntityFrameworkCore](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
+ - [Pentagon.EntityFrameworkCore](https://github.com/Micle257/Pentagon.EntityFrameworkCore) - Provides extended API for Entity Framework Core library, such as synchronization and unit of work pattern.
+ - [MiniProfiler.EntityFrameworkCore](https://miniprofiler.com) - A simple but effective mini-profiler for .NET, Ruby, Go and Node.js.
+ - [DotNetToolkit.Repository.EntityFrameworkCore](https://github.com/johelvisguzman/DotNetToolkit.Repository) - A toolkit for using the Repository pattern in C# .NET.
+ - [Remote.Linq.EntityFrameworkCore](https://github.com/6bee/Remote.Linq) - Simply LINQ your remote resources.
+ - [Riganti.Utils.Infrastructure.EntityFrameworkCore](https://github.com/riganti/infrastructure) - This library can be used as a foundation of a business layer in your application.
+ - [CSLA-EntityFrameworkCore](https://github.com/MarimerLLC/csla) - A software development framework that helps you build a reusable, maintainable object-oriented business layer for your app.
+ - [EntityFrameworkCore.BootKit](https://github.com/Oceania2018/EntityFrameworkCore.BootKit) - A quick start database connect library for using .NET EntityFrameworkCore.
+ - [NeinLinq.EntityFrameworkCore](https://github.com/axelheer/nein-linq) - Provides helpful extensions for using LINQ providers such as Entity Framework.
+ - [Nofy.EntityFrameworkCore](https://github.com/unops/nofy) - A very simple .NET Standard library to help you manage notifications inside your app.
+ - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) - Bring power of Linq To DB to Entity Framework Core projects.
+ - [Rocket.EntityFrameworkCore](https://rocketmod.net/) - RocketMod .NET Game Server Plugin Framework EntityFrameworkCore integration.
+ - [Stove.EntityFrameworkCore](https://github.com/osoykan/Stove) - Domain Driven Design oriented application framework, meets CRUD needs.
+ - [EntityFrameworkCore.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) -Adds events for entity inserting, inserted, updating, updated, deleting, and deleted.
+ - [EntityFrameworkCore.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) - Get typed access to the DbEntityEntry<T>.OriginalValues property bag.
+ - [ErikEJ.EntityFrameworkCore.DgmlBuilder](https://github.com/ErikEJ/SqlCeToolbox) -SQLite & SQL Server Compact Toolbox extension for Visual Studio (and SSMS).
+ - [EntityFrameworkCore.Diagrams](https://github.com/EvAlex/ef-db-diagrams) - Visualize model created with EntityFramework Core.
+ - [FlexLabs.Upsert](https://github.com/artiomchi/FlexLabs.Upsert) - Brings UPSERT functionality to common database providers for Entity Framework in their respective native SQL syntax.
+ - [Microsoft.EntityFrameworkCore.LazyLoading](https://github.com/darxis/EntityFramework.LazyLoading) - Lazy Loading for EF Core.
+ - [EntityFrameworkCore.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey) - Retrieve the primary key (including composite keys) from any entity as a dictionary.
+ - [EntityFrameworkCore.CommonTools](https://github.com/gnaeus/EntityFramework.CommonTools) - Extensions, Auditing, Concurrency Checks, JSON properties and Transaction Logs for EntityFramework and EFCore.
+ - [Moq.EntityFrameworkCore](https://github.com/MichalJankowskii/Moq.EntityFrameworkCore) - This library helps you with mocking EntityFramework contexts.
+ - [DelegateDecompiler.EntityFrameworkCore](https://github.com/hazzik/DelegateDecompiler) - A library which is able to decompile a delegate or a method body to its lambda representation.
+ - [Microsoft.EntityFrameworkCore.AutoHistory](https://github.com/arch/AutoHistory) - A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.
+ - [Microsoft.EntityFrameworkCore.DynamicLinq](https://github.com/StefH/System.Linq.Dynamic.Core) - A .NET Core / Standard port of the Microsoft assembly for the .Net 4.0 Dynamic language functionality.
+ - [Pomelo.EntityFrameworkCore.Lolita.MySql](https://github.com/PomeloFoundation/Lolita/) - A light-weight extension which provides bulk update and delete operations for Entity Framework Core.
+ - [Microsoft.EntityFrameworkCore.UnitOfWork](https://github.com/arch/UnitOfWork) - A plugin for Microsoft.EntityFrameworkCore to support repository, unit of work patterns, multiple database with distributed transaction supported, and MySQL multiple databases/tables  sharding supported.
+ - [Communist.EntityFrameworkCore](https://github.com/bsheldrick/communist) - A set of libraries to help with development of service layers in your .NET Core apps.
+ - [MassTransit.EntityFrameworkCore](https://github.com/MassTransit/MassTransit) - Leverage message-based, loosely-coupled asynchronous   communication for higher availability, reliability, and scalability.
+ - [EfCore.Shaman](https://github.com/isukces/EfCore.Shaman) - Fix some EntityFrameworkCore flaws.
+ - [Filer.EntityFrameworkCore](https://github.com/UNOPS/filer) - A very simple .NET Standard library to help you manage documents inside your app.
+ - [Snickler.EFCore](https://github.com/snickler/EFCore-FluentStoredProcedure) - EFCore Extension that allows a means to map a stored procedure to a class, fluently.
+ - [EntityFrameworkCore.Scaffolding.Handlebars](https://github.com/TrackableEntities/EntityFrameworkCore.Scaffolding.Handlebars) - Scaffold EF Core models using Handlebars templates.
+ - [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - EntityFrameworkCore Bulk Extensions for Insert Update Delete and Read (CRUD) operations.
+ - [ReflectionIT.Mvc.Paging](https://github.com/sonnemaf/ReflectionIT.Mvc.Paging) - ASP.NET Core 2.1 MVC Paging (including filtering and sorting) solution using Entity Framework Core 2.0 and IEnumerable<T>.
+ - [EFCore.DbContextFactory](https://github.com/vany0114/EF.DbContextFactory) - Resolve easily your DbContext dependencies in a safe way injecting a factory instead of an instance itself.
+ - [Cake.DotNetCoreEf](https://github.com/cake-build/cake) - Cake (C# Make) is a cross platform build automation system.
+ - [InfoCarrier.Core](https://github.com/azabluda/InfoCarrier.Core) - EntityFrameworkCore provider for multitier applications.
+ - [Configuration.EntityFramework](https://github.com/thinkabouthub/Configuration.EntityFramework) - A custom configuration provider for the .NET Core Configuration system.
+ - [MockQueryable.Core](https://github.com/romantitov/MockQueryable) - Moking Entity Framework Core operations such ToListAsync, FirstOrDefaultAsync.
+ - [EntityFrameworkCore.Testing.FakeItEasy](https://github.com/pushrbx/EntityFrameworkCore.Testing.FakeItEasy) - Simple EntityFrameworkCore testing library for FakeItEasy.
+ - [Impatient.EntityFrameworkCore.SqlServer](https://github.com/tuespetre/Impatient) - A library that provides the infrastructure needed to build powerful LINQ query providers for SQL databases.
+ - [EntityFrameworkCorePluralize](https://github.com/Apeoholic/EntityFrameworkCorePluralize) - Adds Singlarization and Pluralization to Entity Framework Core.
+ - [EntityFrameworkCore.MemoryJoin](https://github.com/neisbut/EntityFramework.MemoryJoin) - Extension for EntityFramework for joins to in-memory data.
   
 ## Unsupported Packages	
 - [REstate.Engine.Repositories.EntityFrameworkCore](https://github.com/psibr/REstate) - Entity Framework Core repository for REstate Machines and Schematics.	
