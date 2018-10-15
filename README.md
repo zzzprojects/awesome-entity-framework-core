@@ -76,3 +76,26 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 * <a href="https://github.com/tuespetre/Impatient">Impatient.EntityFrameworkCore.SqlServer</a> - A library that provides the infrastructure needed to build powerful LINQ query providers for SQL databases.
 * <a href="https://github.com/Apeoholic/EntityFrameworkCorePluralize">EntityFrameworkCorePluralize</a> - Adds Singlarization and Pluralization to Entity Framework Core.
 * <a href="https://github.com/neisbut/EntityFramework.MemoryJoin">EntityFrameworkCore.MemoryJoin</a> - Extension for EntityFramework for joins to in-memory data.
+  
+  ## Unsupported Packages	
+  - [REstate.Engine.Repositories.EntityFrameworkCore](https://github.com/psibr/REstate) - Entity Framework Core repository for REstate Machines and Schematics.	
+ - [EntityFrameworkCore.SqlServer.DateDiff](https://github.com/dmytro-gokun/EntityFrameworkCore.SqlServer.DateDiff) - SQL Server DATEDIFF function support for Entity Framework Core	
+ ## Providers	
+  - [Microsoft.EntityFrameworkCore.SqlServer](https://docs.microsoft.com/en-us/ef/core/providers/sql-server/index) - This database provider allows Entity Framework Core to be used with Microsoft SQL Server (including SQL Azure).The provider is maintained as part of the [Entity Framework Core](https://github.com/aspnet/EntityFrameworkCore) project.	
+ - [Microsoft.EntityFrameworkCore.Sqlite](https://docs.microsoft.com/en-us/ef/core/providers/sqlite/index) - This database provider allows Entity Framework Core to be used with SQLite. The provider is maintained as part of the [Entity Framework Core](https://github.com/aspnet/EntityFrameworkCore) project.	
+ - [Microsoft.EntityFrameworkCore.InMemory](https://docs.microsoft.com/en-us/ef/core/providers/in-memory/index) - This database provider allows Entity Framework Core to be used with an in-memory database. The provider is maintained as part of the [Entity Framework Core](https://github.com/aspnet/EntityFrameworkCore) project.	
+ - [EntityFrameworkCore.SqlServerCompact40](https://github.com/ErikEJ/EntityFramework.SqlServerCompact) - Allows SQL Server Compact 4.0 to be used with Entity Framework Core.	
+ - [Microsoft.EntityFrameworkCore.InMemory](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.InMemory) - In-memory database provider for Entity Framework Core (to be used for testing purposes).	
+ - [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector.	
+ - [MySql.Data.EntityFrameworkCore](https://dev.mysql.com/downloads/) - MySql.Data.EntityFrameworkCore for Entity Framework.	
+ - [Pomelo.EntityFrameworkCore.MyCat](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MyCat) - Pomelo.EntityFrameworkCore.MyCat is an Entity Framework Core provider and optimized for MyCat.	
+ - [Npgsql.EntityFrameworkCore.PostgreSQL](https://github.com/npgsql/Npgsql.EntityFrameworkCore.PostgreSQL) - Entity Framework Core provider for PostgreSQL.	
+ - [EntityFrameworkCore.FirebirdSQL](https://github.com/ralmsdeveloper/EntityFrameworkCore.FirebirdSQL) - EntityFrameworkCore.FirebirdSql is an ORM, created at the top of the Firebird ADO.NET (FirebirdSql.Data.FirebirdClient) Data Provider. 	
+ - [IBM.EntityFrameworkCore](https://www.ibm.com/developerworks/community/blogs/96960515-2ea1-4391-8170-b0515d08e4da/entry/Creating_Entity_Data_Model_using_IBM_Data_Server_providers_for_Entity_Framework_Core?lang=en) - Creating an Entity Data Model using IBM Data Server providers for Entity Framework Core.	
+ - [Devart.Data.Oracle.EFCore](https://www.devart.com/dotconnect/oracle/docs/) - A commercial third-party provider for Oracle.	
+ - [Devart.Data.PostgreSql.EFCore](https://www.devart.com/dotconnect/postgresql/docs/) - A commercial third-party provider for PostgreSql.	
+ - [Devart.Data.SQLite.EFCore](https://www.devart.com/dotconnect/sqlite/docs/) - A commercial third-party provider for PostgreSql.	
+ - [Devart.Data.MySql.EFCore](https://www.devart.com/dotconnect/mysql/docs/) - A commercial third-party provider for MySql.	
+ - [FirebirdSql.EntityFrameworkCore.Firebird](http://www.firebirdsql.org/en/net-provider/) - The Entity Framework Core Provider for Firebird enables you to develop .NET applications that connect to the Firebird database using Entity Framework Core.	
+ - [EntityFrameworkCore.Jet](https://github.com/bubibubi/EntityFrameworkCore.Jet) - Allows Jet (Microsoft Access mdb or accdb format files) to be used with Entity Framework Core.	
+ - [SapientGuardian.EntityFrameworkCore.MySql](https://github.com/SapientGuardian/SapientGuardian.EntityFrameworkCore.MySql) - MySQL database provider for Entity Framework Core.
