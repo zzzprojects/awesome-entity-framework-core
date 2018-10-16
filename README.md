@@ -30,11 +30,11 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
  - [Riptutorial.com](https://riptutorial.com/entity-framework-core) - Archived Stack Overflow Documentation (Multi-Language)
  - [Google](http://www.letmegooglethat.com/?q=Entity+Framework+Core) - Up-and-coming search engine ;)
  - Books
-    - [Programming Entity Framework, 2nd Edition](http://shop.oreilly.com/product/9780596807252.do)
-    - [Programming Entity Framework: Code First](http://shop.oreilly.com/product/0636920022220.do)
+    - [Entity Framework Core Cookbook, 2nd Edition](http://shop.oreilly.com/product/9781785883309.do) - Leverage the full potential of Entity Framework with this collection of powerful and easy-to-follow recipes
+    - [Mastering Entity Framework Core 2.0](http://shop.oreilly.com/product/9781788294133.do) - Dive into entities, relationships, querying, performance optimization, and more, to learn efficient data-driven development
  - Videos
-    - [Pluralsight](https://www.pluralsight.com/courses/entity-framework-core-2-getting-started)
-    - [Channel 9](https://channel9.msdn.com/Events/Build/2018/BRK2144) 
+    - [Pluralsight](https://www.pluralsight.com/courses/entity-framework-core-2-getting-started) - This course helps those with experience in earlier versions of EF and EF Core, and developers completely new to Entity Framework.
+    - [Channel 9](https://channel9.msdn.com/Events/Build/2018/BRK2144) - Entity Framework Core 2.1: Simple, Powerful Data Access for .NET
 
 
 ## Supported Packages
