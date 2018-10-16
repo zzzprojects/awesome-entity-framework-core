@@ -26,8 +26,15 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
  - [Entity Framework Core Tutorial](http://entityframeworkcore.com/) - Basic learning material for Entity Framework Core 
  - [MicrosoftLearning/EntityFramework](https://github.com/MicrosoftLearning/EntityFramework) - Entity Framework and MVC MVA
  - [Entityframeworktutorial.net](http://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net for free.
+ - [Knowledge Base](https://entityframeworkcore.com/knowledge-base) - Translated posts from Stack Overflow
  - [Riptutorial.com](https://riptutorial.com/entity-framework-core) - Archived Stack Overflow Documentation (Multi-Language)
  - [Google](http://www.letmegooglethat.com/?q=Entity+Framework+Core) - Up-and-coming search engine ;)
+ - Books
+    - [Programming Entity Framework, 2nd Edition](http://shop.oreilly.com/product/9780596807252.do)
+    - [Programming Entity Framework: Code First](http://shop.oreilly.com/product/0636920022220.do)
+ - Videos
+    - [Pluralsight](https://www.pluralsight.com/courses/entity-framework-core-2-getting-started)
+    - [Channel 9](https://channel9.msdn.com/Events/Build/2018/BRK2144) 
 
 
 ## Supported Packages
