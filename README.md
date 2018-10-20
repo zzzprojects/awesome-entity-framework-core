@@ -28,7 +28,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
  - [Entity Framework Core Tutorial](http://entityframeworkcore.com/) - Learn Entity Framework Core with online examples.
  - [MicrosoftLearning/EntityFramework](https://github.com/MicrosoftLearning/EntityFramework) - Entity Framework and MVC MVA
  - [entityframeworktutorial.net](http://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net for free.
- - [Entity Framework Core Knowledge Base](https://entityframeworkcore.com/knowledge-base) - Translated posts from Stack Overflow
+ - [Entity Framework Core - Knowledge Base](https://entityframeworkcore.com/knowledge-base) - Translated posts from Stack Overflow
  - [RIP Tutorial](https://riptutorial.com/entity-framework-core) - Archived Stack Overflow Documentation (Multi-Language)
  - [Google](http://www.letmegooglethat.com/?q=Entity+Framework+Core) - Up-and-coming search engine ;)
  - Books
