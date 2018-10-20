@@ -77,7 +77,6 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 
 ## Unsupported Packages	
 - [EntityFrameworkCore.Scaffolding.Handlebars](https://github.com/TrackableEntities/EntityFrameworkCore.Scaffolding.Handlebars) - Scaffold EF Core models using Handlebars templates.
-- [EntityFrameworkCore.SqlServer.DateDiff](https://github.com/dmytro-gokun/EntityFrameworkCore.SqlServer.DateDiff) - SQL Server DATEDIFF function support for Entity Framework Core
 - [ReflectionIT.Mvc.Paging](https://github.com/sonnemaf/ReflectionIT.Mvc.Paging) - ASP.NET Core 2.1 MVC Paging (including filtering and sorting) solution using Entity Framework Core 2.0 and IEnumerable<T>.
 - [REstate.Engine.Repositories.EntityFrameworkCore](https://github.com/psibr/REstate) - Entity Framework Core repository for REstate Machines and Schematics.	
 - [Snickler.EFCore](https://github.com/snickler/EFCore-FluentStoredProcedure) - EFCore Extension that allows a means to map a stored procedure to a class, fluently.
