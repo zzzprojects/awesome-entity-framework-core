@@ -26,7 +26,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 
  - [Entity Framework Core Docs](https://docs.microsoft.com/en-us/ef/core/) - Official documentation for Entity Framework by Microsoft.
  - [Entity Framework Core Tutorial](http://entityframeworkcore.com/) - Learn Entity Framework Core with online examples.
- - [entityframeworktutorial.net](http://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net for free.
+ - [entityframeworktutorial.net](http://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net
  - [Learn Entity Framework Core ](https://www.learnentityframeworkcore.com/) - Your guide to using the latest version of Microsoft's Object Relational Mapper.
  - [Knowledge Base - Entity Framework Core](https://entityframeworkcore.com/knowledge-base) - Translated posts from Stack Overflow
  - [RIP Tutorial](https://riptutorial.com/entity-framework-core) - Archived Stack Overflow Documentation (Multi-Language)
