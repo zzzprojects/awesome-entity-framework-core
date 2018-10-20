@@ -15,15 +15,17 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 ### Contents
 
 - [Awesome Entity Framework Core](#awesome-entity-framework-core)
-  - [Documentation and Learning](#documentation-and-learning)
-  - [Supported Packages](#supported-packages)
-  - [Unsupported Packages](#supported-packages)
-  - [Providers](#providers)
+   - [Documentation and Learning](#documentation-and-learning)
+   - [Popular Packages](#popular-packages)
+   - [Supported Packages](#supported-packages)
+   - [Profiler Packages](#profiler-packages)
+   - [Provider Packages](#provider-packages)
+   - [Unsupported Packages](#supported-packages)
 
 ## Documentation and Learning
 
  - [Entity Framework Core Docs](https://docs.microsoft.com/en-us/ef/core/) - Official documentation for Entity Framework by Microsoft.
- - [Entity Framework Core Tutorial](http://entityframeworkcore.com/) - Basic learning material for Entity Framework Core 
+ - [Entity Framework Core Tutorial](http://entityframeworkcore.com/) - Learn Entity Framework Core with online examples.
  - [MicrosoftLearning/EntityFramework](https://github.com/MicrosoftLearning/EntityFramework) - Entity Framework and MVC MVA
  - [Entityframeworktutorial.net](http://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - Learn Entity Framework using simple yet practical examples on EntityFrameworkTutorial.net for free.
  - [Knowledge Base](https://entityframeworkcore.com/knowledge-base) - Translated posts from Stack Overflow
