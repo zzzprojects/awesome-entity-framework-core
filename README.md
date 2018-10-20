@@ -53,8 +53,6 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [Microsoft.EntityFrameworkCore.DynamicLinq](https://github.com/StefH/System.Linq.Dynamic.Core) - A .NET Core / Standard port of the Microsoft assembly for the .Net 4.0 Dynamic language functionality.
 - [Moq.EntityFrameworkCore](https://github.com/MichalJankowskii/Moq.EntityFrameworkCore) - This library helps you with mocking EntityFramework contexts.
 - [MockQueryable.Core](https://github.com/romantitov/MockQueryable) - Moking Entity Framework Core operations such ToListAsync, FirstOrDefaultAsync.
-- [ReflectionIT.Mvc.Paging](https://github.com/sonnemaf/ReflectionIT.Mvc.Paging) - ASP.NET Core 2.1 MVC Paging (including filtering and sorting) solution using Entity Framework Core 2.0 and IEnumerable<T>.
-- [Snickler.EFCore](https://github.com/snickler/EFCore-FluentStoredProcedure) - EFCore Extension that allows a means to map a stored procedure to a class, fluently.
 
 ## Profiler Packages
 - [Hibernating Rhinos Entity Framework Profiler](https://www.hibernatingrhinos.com/products/EFProf) - Entity Framework Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Entity Framework.
@@ -83,3 +81,5 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [EntityFrameworkCore.Scaffolding.Handlebars](https://github.com/TrackableEntities/EntityFrameworkCore.Scaffolding.Handlebars) - Scaffold EF Core models using Handlebars templates.
  - [REstate.Engine.Repositories.EntityFrameworkCore](https://github.com/psibr/REstate) - Entity Framework Core repository for REstate Machines and Schematics.	
  - [EntityFrameworkCore.SqlServer.DateDiff](https://github.com/dmytro-gokun/EntityFrameworkCore.SqlServer.DateDiff) - SQL Server DATEDIFF function support for Entity Framework Core
+ - [ReflectionIT.Mvc.Paging](https://github.com/sonnemaf/ReflectionIT.Mvc.Paging) - ASP.NET Core 2.1 MVC Paging (including filtering and sorting) solution using Entity Framework Core 2.0 and IEnumerable<T>.
+- [Snickler.EFCore](https://github.com/snickler/EFCore-FluentStoredProcedure) - EFCore Extension that allows a means to map a stored procedure to a class, fluently.
