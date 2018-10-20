@@ -41,14 +41,14 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 ## Popular Packages
 - [Z.EntityFramework.Extensions.EFCore](https://entityframework-extensions.net/) - Entity Framework Extensions extends your DbContext with high-performance bulk operations: BulkSaveChanges, BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
 - [Z.EntityFramework.Plus.EFCore](https://entityframework-plus.net/) - Improves Entity Framework performance and overcomes limitations with MUST-HAVE features.
-  
+- [LinqKit.Microsoft.EntityFrameworkCore](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
+
 ## Supported Packages
 - [Audit.EntityFramework.Core](https://github.com/thepirat000/Audit.NET/tree/master/src/Audit.EntityFramework) - Audit.EntityFramework provides the infrastructure to log interactions with the EF DbContext.
 - [DelegateDecompiler.EntityFrameworkCore](https://github.com/hazzik/DelegateDecompiler) - A library which is able to decompile a delegate or a method body to its lambda representation.
 - [EntityFrameworkCore.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) -Adds events for entity inserting, inserted, updating, updated, deleting, and deleted.
 - [EntityFrameworkCore.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) - Get typed access to the DbEntityEntry<T>.OriginalValues property bag.
 - [FlexLabs.Upsert](https://github.com/artiomchi/FlexLabs.Upsert) - Brings UPSERT functionality to common database providers for Entity Framework in their respective native SQL syntax.
-- [LinqKit.Microsoft.EntityFrameworkCore](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [Microsoft.EntityFrameworkCore.AutoHistory](https://github.com/arch/AutoHistory) - A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.
 - [Microsoft.EntityFrameworkCore.DynamicLinq](https://github.com/StefH/System.Linq.Dynamic.Core) - A .NET Core / Standard port of the Microsoft assembly for the .Net 4.0 Dynamic language functionality.
 - [Moq.EntityFrameworkCore](https://github.com/MichalJankowskii/Moq.EntityFrameworkCore) - This library helps you with mocking EntityFramework contexts.
