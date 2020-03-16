@@ -46,7 +46,7 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 ## Supported Packages
 - [Audit.EntityFramework.Core](https://github.com/thepirat000/Audit.NET/tree/master/src/Audit.EntityFramework) - Audit.EntityFramework provides the infrastructure to log interactions with the EF DbContext.
 - [DelegateDecompiler.EntityFrameworkCore](https://github.com/hazzik/DelegateDecompiler) - A library which is able to decompile a delegate or a method body to its lambda representation.
-- [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for EntityFrameworkCore when your SQL query violates database constraints in SqlServer, MySql, or #ostgreSQL.
+- [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for EntityFrameworkCore when your SQL query violates database constraints in SqlServer, MySql, or PostgreSQL.
 - [EntityFrameworkExtras](https://github.com/zzzprojects/EntityFrameworkExtras) - EntityFrameworkExtras provides some useful additions to EntityFramework such as executing Stored Procedures with User-Defined Table Types and Output Parameters.
 - [EntityFrameworkCore.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) -Adds events for entity inserting, inserted, updating, updated, deleting, and deleted.
 - [EntityFrameworkCore.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) - Get typed access to the DbEntityEntry<T>.OriginalValues property bag.
