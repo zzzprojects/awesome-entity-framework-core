@@ -42,7 +42,8 @@ Suggestions and contributions are always welcome! Make sure to read the <a href
 - [Knowledge Base - Entity Framework Core](https://entityframeworkcore.com/knowledge-base) - EF Core Knowledge Base (KB)
 - [Entity Framework Core Docs](https://docs.microsoft.com/en-us/ef/core/) - Official documentation for Entity Framework by Microsoft.
 - [RIP Tutorial](https://riptutorial.com/entity-framework-core) - Archived Stack Overflow Documentation (Multi-Language)
-- [Google](http://www.letmegooglethat.com/?q=Entity+Framework+Core) - Up-and-coming search engine ;)
+- AI (Chat GPT)
+   - [ZZZ Code AI](https://zzzcode.ai/answer-question?p1=ef%20core) - Generate instant answer to any EF Core question
 - Books
     - [Entity Framework Core Cookbook, 2nd Edition](http://shop.oreilly.com/product/9781785883309.do) - Leverage the full potential of Entity Framework with this collection of powerful and easy-to-follow recipes
    - [Mastering Entity Framework Core 2.0](http://shop.oreilly.com/product/9781788294133.do) - Dive into entities, relationships, querying, performance optimization, and more, to learn efficient data-driven development
