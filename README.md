@@ -48,12 +48,6 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [RIP Tutorial](https://riptutorial.com/entity-framework-core) - Archived Stack Overflow Documentation (Multi-Language)
 - AI (Chat GPT)
    - [ZZZ Code AI](https://zzzcode.ai/answer-question?p1=ef%20core) - Generate instant answer to any EF Core question
-- Books
-    - [Entity Framework Core Cookbook, 2nd Edition](http://shop.oreilly.com/product/9781785883309.do) - Leverage the full potential of Entity Framework with this collection of powerful and easy-to-follow recipes
-   - [Mastering Entity Framework Core 2.0](http://shop.oreilly.com/product/9781788294133.do) - Dive into entities, relationships, querying, performance optimization, and more, to learn efficient data-driven development
-- Videos
-   - [Pluralsight](https://www.pluralsight.com/courses/entity-framework-core-2-getting-started) - This course helps those with experience in earlier versions of EF and EF Core, and developers completely new to Entity Framework.
-   - [Channel 9](https://channel9.msdn.com/Events/Build/2018/BRK2144) - Entity Framework Core 2.1: Simple, Powerful Data Access for .NET
 
 ## Popular Packages
 - [Z.EntityFramework.Extensions.EFCore](https://entityframework-extensions.net/) - Entity Framework Extensions extends your DbContext with high-performance bulk operations: BulkSaveChanges, BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
