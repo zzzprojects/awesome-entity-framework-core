@@ -1,15 +1,3 @@
-## Library Powered By
-
-This library is powered by [Entity Framework Extensions](https://entityframework-extensions.net/?z=github&y=entityframework-plus)
-
-<a href="https://entityframework-extensions.net/?z=github&y=entityframework-plus">
-<kbd>
-<img src="https://zzzprojects.github.io/images/logo/entityframework-extensions-pub.jpg" alt="Entity Framework Extensions" />
-</kbd>
-</a>
-
----
-
 # Awesome Entity Framework Core
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
@@ -18,21 +6,38 @@ Entity Framework Core is a lightweight, extensible and cross-platform object-rel
 
 A curated list of awesome entity framework core libraries, packages, and documentation.
 
+## Sponsors
+
+ZZZ Projects owns and maintains **Awesome EF Core** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
+
+Through [Entity Framework Extensions](https://entityframework-extensions.net/) and [Dapper Plus](https://dapper-plus.net/), we actively sponsor and help key open-source libraries grow.
+
+[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-core/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert)
+
+[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-core/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert)
+
 ### Contributing
 
-Suggestions and contributions are always welcome! Make sure to read the <a href="https://github.com/zzzprojects/awesome-entity-framework-core/blob/master/CONTRIBUTING.md">contribution guidelines</a> for more information before submitting a pull request.
-
-#### *If you see a package here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
+Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/zzzprojects/awesome-entity-framework-core/blob/master/CONTRIBUTING.md) before submitting a pull request.
 
 ### Contents
 
-- [Awesome Entity Framework Core](#awesome-entity-framework-core)
-   - [Documentation and Learning](#documentation-and-learning)
-   - [Popular Packages](#popular-packages)
-   - [Supported Packages](#supported-packages)
-   - [Profiler Packages](#profiler-packages)
-   - [Provider Packages](#provider-packages)
-   - [Unsupported Packages](#supported-packages)
+- [EF Core Newsletter](#ef-core-newsletter)
+- [Documentation and Learning](#documentation-and-learning)
+- [Popular Packages](#popular-packages)
+- [Supported Packages](#supported-packages)
+- [Profiler Packages](#profiler-packages)
+- [Provider Packages](#provider-packages)
+- [Unsupported Packages](#supported-packages)
+
+## EF Core Newsletter
+
+**📬 Subscribe for Entity Framework updates that matter** – [Sign up free](https://mailchi.mp/zzzprojects/entity-framework-newsletter) and stay in the loop.
+
+- 🛠️ Real-world Entity Framework tips
+- 🚀 New package releases
+- 🎓 Dev-focused video tutorials
+- 🧠 Fresh articles and guides
 
 ## Documentation and Learning
 
