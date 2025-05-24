@@ -69,7 +69,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [MockQueryable.Core](https://github.com/romantitov/MockQueryable) - Moking Entity Framework Core operations such ToListAsync, FirstOrDefaultAsync.
 
 ## Profiler Packages
-- [Hibernating Rhinos Entity Framework Profiler](https://www.hibernatingrhinos.com/products/EFProf) - Entity Framework Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Entity Framework.
+- [Hibernating Rhinos Entity Framework Profiler](https://hibernatingrhinos.com/products/efprof) - Entity Framework Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Entity Framework.
 - [MiniProfiler.EntityFrameworkCore](https://miniprofiler.com) - A simple but effective mini-profiler for .NET, Ruby, Go and Node.js.
 - [EFCore.Visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer) - View Entity Framework Core query plan directly in Visual Studio.
  
