@@ -50,6 +50,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
    - [ZZZ Code AI](https://zzzcode.ai/answer-question?p1=ef%20core) - Generate instant answer to any EF Core question
 
 ## Popular Packages
+
 - [Z.EntityFramework.Extensions.EFCore](https://entityframework-extensions.net/) - Entity Framework Extensions extends your DbContext with high-performance bulk operations: BulkSaveChanges, BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
 - [Z.EntityFramework.Plus.EFCore](https://entityframework-plus.net/) - Improves Entity Framework performance and overcomes limitations with MUST-HAVE features.
 - [LinqKit.Microsoft.EntityFrameworkCore](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
