@@ -90,20 +90,12 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Devart.Data.SQLite.EFCore](https://www.nuget.org/packages/Devart.Data.SQLite.EFCore/) - A commercial third-party provider for SQLite.
 
 ## Unsupported Packages	
+
+_If your package has been added here by mistake, let us know. We revise this list once a year to verify if a release or support has been added._
+
 - [EntityFrameworkCore.Scaffolding.Handlebars](https://github.com/TrackableEntities/EntityFrameworkCore.Scaffolding.Handlebars) - Scaffold EF Core models using Handlebars templates.
 - [ReflectionIT.Mvc.Paging](https://github.com/sonnemaf/ReflectionIT.Mvc.Paging) - ASP.NET Core 2.1 MVC Paging (including filtering and sorting) solution using Entity Framework Core 2.0 and IEnumerable<T>.
 - [Snickler.EFCore](https://github.com/snickler/EFCore-FluentStoredProcedure) - EFCore Extension that allows a means to map a stored procedure to a class, fluently.
-
-## Contribute
-
-The best way to contribute is by **spreading the word** about the library:
-
- - Blog it
- - Comment it
- - Star it
- - Share it
- 
-A **HUGE THANKS** for your help.
 
 ## More Projects
 
