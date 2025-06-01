@@ -10,11 +10,11 @@ A curated list of awesome entity framework core libraries, packages, and documen
 
 ZZZ Projects owns and maintains **Awesome EF Core** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
 
-Through [Entity Framework Extensions](https://entityframework-extensions.net/) and [Dapper Plus](https://dapper-plus.net/), we actively sponsor and help key open-source libraries grow.
+Through [Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=zzzprojects&utm_medium=awesome-entity-framework-core) and [Dapper Plus](https://dapper-plus.net/?utm_source=zzzprojects&utm_medium=awesome-entity-framework-core), we actively sponsor and help key open-source libraries grow.
 
-[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-core/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert)
+[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-core/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert?utm_source=zzzprojects&utm_medium=awesome-entity-framework-core)
 
-[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-core/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert)
+[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-entity-framework-core/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert?utm_source=zzzprojects&utm_medium=awesome-entity-framework-core)
 
 ### Contributing
 
