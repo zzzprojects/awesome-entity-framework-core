@@ -63,6 +63,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Clave.Expressionify](https://www.nuget.org/packages/Clave.Expressionify/) - Add expressionify support to Entity Framework Core queries.
 - [DelegateDecompiler.EntityFramework](https://www.nuget.org/packages/DelegateDecompiler.EntityFramework/) - A library that is able to decompile a delegate or a method body to their lambda representation.
 - [Detached.Mappers.EntityFramework](https://www.nuget.org/packages/Detached.Mappers.EntityFramework/) - Maps Dtos directly to entities already attached to a DbContext. Solves disconnected entities, partial updates and automapping in a single step.
+- [EFCore.ComplexIndexes](https://www.nuget.org/packages/EFCore.ComplexIndexes/) - Generates migration SQL for indexes on properties of complex types, with PostgreSQL and SQL Server options.
 - [EFCore.NamingConventions](https://www.nuget.org/packages/EFCore.NamingConventions/) - Naming Conventions for Entity Framework Core Tables and Columns.
 - [EfCoreNexus.Framework](https://www.nuget.org/packages/EfCoreNexus.Framework/) - Integrate the entity framework core into your blazor app with ease and less code.
 - [EFCoreSecondLevelCacheInterceptor](https://www.nuget.org/packages/EFCoreSecondLevelCacheInterceptor/) - Second level caching is a query cache. The results of EF commands will be stored in the cache, so that the same EF commands will retrieve their data from the cache rather than executing them against the database again.
